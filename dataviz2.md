@@ -81,5 +81,4 @@ Heatmaps offer a broader view, showing the intensity of debt ratios across all c
 
 That’s why I chose the line graph for the third visualization. It focuses on North American Countries from 1995 to 2019 and clearly shows how their debt changed, especially during the 2008 financial crisis. The graph highlights when and how these countries were impacted, making it easy to see trends and compare them directly. The colors used also correspond to what both countries would consider there dominant colors.
 
-Source: General government debt. (n.d.). OECD. 
-[https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023#top]
+[Source: General government debt. (n.d.). OECD.](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023#top)
