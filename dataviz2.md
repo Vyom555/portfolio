@@ -1,4 +1,4 @@
-| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt(https://vyom555.github.io/portfolio/dataviz2) |
+| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt](https://vyom555.github.io/portfolio/dataviz2) |
 
 # Visualizing government debt using Tableau
 
