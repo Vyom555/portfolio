@@ -41,11 +41,7 @@
 
 ## Part 3:
 
-When comparing bar charts, heatmaps, and line graphs, each has its strengths for visualizing economic data like the Debt to GDP Ratio. Bar charts are great for simple comparisons. For example, using a bar chart to show debt levels for all countries in a specific year, makes it easy to see who had the highest or lowest debt at that point. However, it doesn’t give you any idea of how things have changed over time.
-
-Heatmaps offer a broader view, showing the intensity of debt ratios across all countries and years. They’re useful for spotting general patterns, like which years had higher or lower debt levels. But heatmaps can be a bit overwhelming if you’re trying to focus on how a couple of countries were affected over time, especially when specific trends matter.
-
-That’s why I chose the line graph for the third visualization. It focuses on North American Countries from 1995 to 2019 and clearly shows how their debt changed, especially during the 2008 financial crisis. The graph highlights when and how these countries were impacted, making it easy to see trends and compare them directly. The colors used also correspond to what both countries would consider there dominant colors.
+The line graph below illustrates how the Debt to GDP Ratio for two North American countries has changed from 1995 to 2019. Key moments, such as the financial crisis of 2008, are highlighted by notable shifts in the data, providing insight into how economic events have impacted each country differently over time.
 
 <div class='tableauPlaceholder' id='viz1730576619500' style='position: relative'>
   <noscript>
@@ -78,3 +74,12 @@ That’s why I chose the line graph for the third visualization. It focuses on N
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+When comparing bar charts, heatmaps, and line graphs, each has its strengths for visualizing economic data like the Debt to GDP Ratio. Bar charts are great for simple comparisons. For example, using a bar chart to show debt levels for all countries in a specific year, makes it easy to see who had the highest or lowest debt at that point. However, it doesn’t give you any idea of how things have changed over time.
+
+Heatmaps offer a broader view, showing the intensity of debt ratios across all countries and years. They’re useful for spotting general patterns, like which years had higher or lower debt levels. But heatmaps can be a bit overwhelming if you’re trying to focus on how a couple of countries were affected over time, especially when specific trends matter.
+
+That’s why I chose the line graph for the third visualization. It focuses on North American Countries from 1995 to 2019 and clearly shows how their debt changed, especially during the 2008 financial crisis. The graph highlights when and how these countries were impacted, making it easy to see trends and compare them directly. The colors used also correspond to what both countries would consider there dominant colors.
+
+Source: General government debt. (n.d.). OECD. 
+[(https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023#top)]
