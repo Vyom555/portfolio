@@ -50,7 +50,7 @@ That’s why I chose the line graph for the third visualization. It focuses on N
 <div class='tableauPlaceholder' id='viz1730576619500' style='position: relative'>
 <noscript>
   <a href='#'>
-    <img alt='Debt to GDP Ratio of North American Countries 'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataviz2USA-CAN&#47;Sheet1&#47;1_rss.png' style='border: none' />
+  <img alt='Debt to GDP Ratio of North American Countries 'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataviz2USA-CAN&#47;Sheet1&#47;1_rss.png' style='border: none' />
   </a>
 </noscript>
   <object class='tableauViz'  style='display:none;'>
