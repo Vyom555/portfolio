@@ -60,7 +60,7 @@ That’s why I chose the line graph for the third visualization. It focuses on N
     <param name='name' value='dataviz2USA-CAN&#47;Sheet1' />
     <param name='tabs' value='no' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataviz2USA-CAN&#47;Sheet1&#47;1.png' /> 
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataviz2USACAN&#47;Sheet1&#47;1.png' /> 
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
