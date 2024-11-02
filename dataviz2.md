@@ -1,3 +1,5 @@
+| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt (https://vyom555.github.io/portfolio/dataviz2) |
+
 # Visualizing government debt using Tableau
 
 ## Part 1:
@@ -36,3 +38,6 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Part 3:
+ 
