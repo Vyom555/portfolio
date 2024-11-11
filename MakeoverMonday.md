@@ -2,6 +2,7 @@
 
 ## Step one: choose a data visualization from MakeoverMonday
 [Data Viz Link](https://k12ssdb.org/)
+Source: Riedman, David. "K-12 School Shooting Database" (2022). 02.Nov.2022
 
 ![image](https://img1.wsimg.com/isteam/ip/f021e984-7ec8-4011-80df-5c7624ed04c0/NY%20times%205%2025%202022.png/:/rs=w:1920,h:1920,cg:true,m/cr=w:1920,h:1920)
 
