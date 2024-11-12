@@ -28,6 +28,8 @@ The visualization scores moderately in usefulness (6/10) by highlighting key fat
 ## Step three: sketch out a solution
 
 ### Sketching solution
+![Sketch1](https://github.com/user-attachments/assets/afe8205c-c12e-4727-bc85-bfc7eab41f8a)
+![Sketch2](https://github.com/user-attachments/assets/e5396f4e-8eaa-4130-ab20-adc06da09e86)
 
 ## Step four: Test the solution
 
