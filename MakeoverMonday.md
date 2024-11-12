@@ -1,3 +1,5 @@
+| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt](https://vyom555.github.io/portfolio/dataviz2) | [Makeover of K-12 School Shootings](https://vyom555.github.io/portfolio/MakeoverMonday)
+
 # Assignment: Critique by Design with Tableau (MakeoverMonday)
 
 ## Step one: choose a data visualization from MakeoverMonday
