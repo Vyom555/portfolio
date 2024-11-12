@@ -28,7 +28,12 @@ The visualization scores moderately in usefulness (6/10) by highlighting key fat
 ## Step three: sketch out a solution
 
 ### Sketching solution
+In my redesigns, I focused on making the data easier to understand and adding context to show the full impact of school shootings. For the first chart, I used a bar graph that separates fatalities (red) and injuries (blue) for each year, with a clear legend to explain the colors. This approach gives a more complete picture by showing both deaths and non-fatal injuries, so viewers can see the total number of people affected each year, not just those who lost their lives. The stacked bars make it visually straightforward to compare years and understand how incidents vary in impact.
+
 ![Sketch1](https://github.com/user-attachments/assets/afe8205c-c12e-4727-bc85-bfc7eab41f8a)
+
+For the second chart, I switched to a line graph that only tracks deaths over time, which makes trends more apparent. This simpler format highlights increases and decreases in fatalities, helping viewers easily spot any patterns without the clutter of extra data. The line chart aligns with the critique’s idea of showing trends to see if fatalities are becoming more or less common, adding useful context. These redesigns make the information clearer and more accessible, giving a fuller, more nuanced view of the data and helping audiences grasp both the immediate impact of each incident and the longer-term trends.
+
 ![Sketch2](https://github.com/user-attachments/assets/e5396f4e-8eaa-4130-ab20-adc06da09e86)
 
 ## Step four: Test the solution
