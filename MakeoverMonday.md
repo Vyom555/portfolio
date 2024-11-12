@@ -38,6 +38,6 @@ For the second chart, I switched to a line graph that only tracks deaths over ti
 
 ## Step four: Test the solution
 
-### User 1 feedback (student, mid 20's)
+### User 1 feedback
 
 ### User 2 feedback
