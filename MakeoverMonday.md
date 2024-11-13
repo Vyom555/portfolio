@@ -79,8 +79,7 @@ The visualizations do a great job of laying out the data on school shootings, bu
 
 <div class='tableauPlaceholder' id='viz1731468423511' style='position: relative'>
    <noscript><a href='#'>
-      <img alt='School Shooting Incidents Spread across the USASource: Riedman, David. &quot;K-12 School Shooting Database&quot; (2022). 02.Nov.2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GX&#47;GXFRS38C5&#47;1_rss.png' 
-         style='border: none' />
+      <img alt='School Shooting Incidents Spread across the USASource: Riedman, David. &quot;K-12 School Shooting Database&quot; (2022). 02.Nov.2022 'src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GX&#47;GXFRS38C5&#47;1_rss.png' style='border: none' />
    </a>
    </noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -99,7 +98,8 @@ The visualizations do a great job of laying out the data on school shootings, bu
       <script type='text/javascript'>                    
          var divElement = document.getElementById('viz1731468423511');                    
          var vizElement = divElement.getElementsByTagName('object')[0];                    
-         vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+         vizElement.style.width='100%';
+         vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
          var scriptElement = document.createElement('script');                    
          scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
          vizElement.parentNode.insertBefore(scriptElement, vizElement);                
