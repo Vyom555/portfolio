@@ -24,14 +24,19 @@ This is where the data is dug into to find patterns and trends. When are delays 
   
 The data will use clear visuals to bring the data to life. Whether it’s charts showing the worst airports for delays or graphs of seasonal trends, the data will attempt to make it easy to understand what’s going on.
 
-- Solutions and Insights: Making Flying Better
+- Solutions/Call to Action: Making Flying Better
 
 What can airlines do to improve? How can passengers plan smarter? This section will focus on practical steps to reduce the impact of delays, from operational fixes to tips for travelers who want to avoid surprises.
 
-- Conclusion: What We Can Learn
-  
-The goal is to make air travel a little less stressful. By understanding the patterns behind delays and sharing insights, I hope this project helps travelers feel more prepared and airlines find ways to keep things running smoothly.
-
 ### Story Arc
+![StoryArc](https://github.com/user-attachments/assets/c3742750-91ce-4d4e-a938-1aff5ec62b0f)
+
 ### User Stories
+
+As an air traveler, I want to understand the causes and patterns of airport delays so that I can plan my trips better and minimize frustration.
+
+I can do this by identifying the common reasons for delays, the most affected airports and airlines, and recommending strategies to airplane companies to reduce their impact on my travel experience.
+
 ### Summary
+
+Frequent airport delays disrupt travel plans and frustrate passengers.
