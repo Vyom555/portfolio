@@ -41,11 +41,19 @@ Frequent airport delays disrupt travel plans and frustrate passengers.
 
 ### Initial Sketches
 
+Airlines With Highest Delays (Bar Chart): This chart compares airlines by their delay percentages to identify carriers with the most frequent delays.
+
 ![WhatsApp Image 2024-11-17 at 16 43 08_a1360bc7](https://github.com/user-attachments/assets/2f947aba-c726-4b3b-a1bc-a771d23a4c6c)
+
+Cities With Highest Delays (Bar Chart): This chart ranks cities by the percentage of delayed flights, emphasizing geographical hotspots for flight delays.
 
 ![WhatsApp Image 2024-11-17 at 16 43 08_777f2359](https://github.com/user-attachments/assets/2a7cd679-cbfb-4306-8d81-862a7ef474bc)
 
+Total Flight Delays Across the USA (Line Chart): This chart tracks the monthly trend of flight delays, revealing seasonal patterns or peaks throughout the year.
+
 ![WhatsApp Image 2024-11-17 at 16 43 08_44bdc497](https://github.com/user-attachments/assets/6ca16d75-854f-431a-a72d-c796308f6ba6)
+
+Reasons for Flight Delays in the USA (Treemap): This chart categorizes and visualizes the proportional contribution of different factors to flight delays, aiming to highlight the dominant reasons.
 
 ![WhatsApp Image 2024-11-17 at 16 43 10_71e2a23a](https://github.com/user-attachments/assets/317c7c6d-f77b-4fef-8549-08853f5dc3fb)
 
