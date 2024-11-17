@@ -41,6 +41,14 @@ Frequent airport delays disrupt travel plans and frustrate passengers.
 
 ### Initial Sketches
 
+![WhatsApp Image 2024-11-17 at 16 43 08_a1360bc7](https://github.com/user-attachments/assets/2f947aba-c726-4b3b-a1bc-a771d23a4c6c)
+
+![WhatsApp Image 2024-11-17 at 16 43 08_777f2359](https://github.com/user-attachments/assets/2a7cd679-cbfb-4306-8d81-862a7ef474bc)
+
+![WhatsApp Image 2024-11-17 at 16 43 08_44bdc497](https://github.com/user-attachments/assets/6ca16d75-854f-431a-a72d-c796308f6ba6)
+
+![WhatsApp Image 2024-11-17 at 16 43 10_71e2a23a](https://github.com/user-attachments/assets/317c7c6d-f77b-4fef-8549-08853f5dc3fb)
+
 ### The data
 The data for this project comes from the Flight Delay and Cancellation Dataset (2019–2023), available on Kaggle. This dataset provides detailed information about flight delays, cancellations, airlines, airports, and specific reasons for disruptions, such as carrier issues, weather conditions, and late aircraft. By leveraging this data, the project will analyze patterns and trends to uncover insights about when and why delays occur, which airlines and routes are most impacted, and how these factors affect passengers and operations.
 
