@@ -1,4 +1,4 @@
-| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt](https://vyom555.github.io/portfolio/dataviz2) | [Makeover of K-12 School Shootings](https://vyom555.github.io/portfolio/MakeoverMonday)
+| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt](https://vyom555.github.io/portfolio/dataviz2) | [Makeover of K-12 School Shootings](https://vyom555.github.io/portfolio/MakeoverMonday) | [Final Project 1](https://vyom555.github.io/portfolio/finalProject)
 
 # portfolio
 Portfolio for Telling Stories With Data 
