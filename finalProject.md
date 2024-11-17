@@ -48,9 +48,7 @@ The data for this project comes from the Flight Delay and Cancellation Dataset (
 
 This dataset will help identify key delay causes and measure their impact across various dimensions, such as cities, time of year, and flight routes. It will allow the project to correlate delay durations with specific factors and identify trends over time, helping to provide actionable insights for travelers and airlines to improve planning and efficiency.
 
-[Flight Delay and Cancellation Dataset (2019-2023)](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023)
-
-Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+Source: Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 
 ### Method and medium
 I will use Tableau to create detailed and visually engaging data visualizations. To present and tell the story, I will be using Shorthand.
