@@ -10,25 +10,21 @@ Using clear and engaging data visualizations, this project will highlight key ta
 
 ### Project Structure
 
-- Introduction: The Frustration of Flight Delays
+## Introduction: The Frustration of Flight Delays
   
 Air travel is exciting until your flight gets delayed. For me, there’s nothing worse than being stuck at the airport, frustrated and helpless. That’s why I’ve always been curious about what causes these delays and how we can make the experience better for everyone.
 
-- Background: Why Understanding Delays Matters
+## Background: Why Understanding Delays Matters
   
-Flight delays aren’t just an inconvenience; they affect millions of people and cost airlines and passengers both time and money. I want to dive into the common causes—like weather, staffing, and scheduling issues—and figure out why they happen so often.
+Flight delays aren’t just an inconvenience; they affect millions of people and cost airlines and passengers both time and money. I want to dive into how big the impact is and explain the impact delays have on travelers across the Unites States.
 
-- Data Analysis: What the Numbers Tell Us
+## Visual Storytelling: Making the Data Speak
   
-This is where the data is dug into to find patterns and trends. When are delays most likely to happen? Which airlines and routes are hit the hardest? Are there certain times of the year or conditions that make delays worse? The goal is to uncover trends that can help explain the chaos.
+The data will use clear visuals to bring the data to life. Starting with reasons for flight delays and the least and most delayed flights, it will then transition toward the best and worst airports for flying. The goal is to give passengers an idea of ideal places to fly from and places to avoid. 
 
-- Visual Storytelling: Making the Data Speak
-  
-The data will use clear visuals to bring the data to life. Whether it’s charts showing the worst airports for delays or graphs of seasonal trends, the data will attempt to make it easy to understand what’s going on.
+## Solutions/Call to Action: Making Flying Better
 
-- Solutions/Call to Action: Making Flying Better
-
-What can airlines do to improve? How can passengers plan smarter? This section will focus on practical steps to reduce the impact of delays, from operational fixes to tips for travelers who want to avoid surprises.
+This section will focus on actionable steps travelers and the actions they can take to inform airlines. It will include tips such as booking flights during less busy seasons, choosing airlines and airports with better track records, and preparing for potential delays. It will allow travelers to convey to airline operators the importance of addressing places of delay and the places their flights need to improve.
 
 ### Story Arc
 ![StoryArc](https://github.com/user-attachments/assets/c3742750-91ce-4d4e-a938-1aff5ec62b0f)
