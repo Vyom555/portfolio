@@ -65,4 +65,4 @@ This dataset will help identify key delay causes and measure their impact across
 Source: Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 
 ## Method and medium
-I will use Tableau and Shorthand to create detailed and visually engaging data visualizations. To present and tell the story, I will be using Shorthand.
+I will use Tableau to create detailed and visually engaging data visualizations. To present and tell the story, I will be using Shorthand.
