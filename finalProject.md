@@ -58,11 +58,16 @@ Reasons for Flight Delays in the USA (Treemap): This chart categorizes and visua
 ![WhatsApp Image 2024-11-17 at 16 43 10_71e2a23a](https://github.com/user-attachments/assets/317c7c6d-f77b-4fef-8549-08853f5dc3fb)
 
 ## The data
-The data for this project comes from the Flight Delay and Cancellation Dataset (2019–2023), available on Kaggle. This dataset provides detailed information about flight delays, cancellations, airlines, airports, and specific reasons for disruptions, such as carrier issues, weather conditions, and late aircraft. By leveraging this data, the project will analyze patterns and trends to uncover insights about when and why delays occur, which airlines and routes are most impacted, and how these factors affect passengers and operations.
+The data for this project comes from the Flight Delay and Cancellation Dataset (2019–2023), available on Kaggle and The Bureau of Transportation Statistics Dataset. These datasets provide detailed information about flight delays, cancellations, airlines, airports, and specific reasons for disruptions, such as carrier issues, weather conditions, and late aircraft. By leveraging this data, the project will analyze patterns and trends to uncover insights about when and why delays occur, which airlines and routes are most impacted, and how these factors affect passengers and operations.
 
-This dataset will help identify key delay causes and measure their impact across various dimensions, such as cities, time of year, and flight routes. It will allow the project to correlate delay durations with specific factors and identify trends over time, helping to provide actionable insights for travelers and airlines to improve planning and efficiency.
+The datasets will help identify key delay causes and measure their impact across various dimensions, such as cities, time of year, and flight routes. It will allow the project to correlate delay durations with specific factors and identify trends over time, helping to provide actionable insights for travelers and airlines to improve planning and efficiency.
 
-Source: Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+Sources: 
+
+Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+
+BTS | OT Delay. (n.d.). 
+https://www.transtats.bts.gov/ot_delay/ot_delaycause1.asp
 
 ## Method and medium
 I will use Tableau to create detailed and visually engaging data visualizations. To present and tell the story, I will be using Shorthand.
