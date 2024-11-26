@@ -5,7 +5,6 @@ https://preview.shorthand.com/G9ty2iKdo9aXS4qb
 
 ## Target audience
 
-###Target Audience
 The target audience for this story is frequent flyers who are likely to regularly be impacted by flight delays. These individuals aim to understand the causes of delays to better plan their trips and reduce frustration. They also can communicate their insights and suggestions to airlines, leading to operational improvements.
 
 ### Approach to Identifying Representative Individuals
