@@ -33,18 +33,11 @@ Professionals in industries requiring regular travel, such as consulting or sale
 | How likely will you use the information presented to plan your future trips? | Very likely—would use airline and airport delay data to inform bookings. | Likely—would consider timing and airport options based on the insights. | Somewhat likely—found tips useful but prefers focusing on overall cost and convenience. |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+| The graphs are generally clear but could benefit from additional context and interactivity. | Add more regional context to maps and consider introducing interactive elements for deeper user exploration. |
+| Lack of data on specific delay trends, such as international vs. domestic or weekend vs. weekday delays. | Include graphs or visualizations comparing international vs. domestic delays and analyzing delays by day of the week. |
+| The story resonates but needs more emphasis on the role of airline communication during delays. | Add a section or visual addressing airline communication practices and how they can impact delay frustrations. |
+| Seasonal delays resonate strongly, but not all users found actionable tips sufficient. | Expand the actionable tips section with more specific suggestions for planning during high-delay seasons and routes. |
+| Some users prefer focusing on cost and convenience over delay statistics. | Balance insights on delays with additional context around cost and travel efficiency to appeal to broader user priorities. |
