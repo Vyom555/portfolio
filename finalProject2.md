@@ -1,3 +1,5 @@
+| [Home Page](https://vyom555.github.io/portfolio/) | [visualizing-government-debt](https://vyom555.github.io/portfolio/dataviz2) | [Makeover of K-12 School Shootings](https://vyom555.github.io/portfolio/MakeoverMonday) | [Final Project 1](https://vyom555.github.io/portfolio/finalProject) | [Final Project 2](https://vyom555.github.io/portfolio/finalProject2)
+
 # Wireframes / storyboards
 
 [Shorthand Link](https://preview.shorthand.com/G9ty2iKdo9aXS4qb)
