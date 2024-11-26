@@ -12,18 +12,15 @@ Frequent flyer loyalty program members.
 Professionals in industries requiring regular travel, such as consulting or sales.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Assess the clarity and usefulness of the graphs in conveying insights about flight delays | Did the graphs about airline and airport delays make the information clear and easy to understand? |
+|      | Is there any additional data you feel should be included to provide a more complete picture of delays? |
+| Evaluate how well the story aligns with the experiences and concerns of frequent flyers | Do you feel the story accurately reflects your reasons with flight delays? |
+|      | What part of the narrative resonated most with you, and why? |
+| Gather feedback on actionable advice and potential improvements | How likely will you use the information presented to plan your future trips? |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
