@@ -39,7 +39,7 @@ Professionals in industries requiring regular travel, such as consulting or sale
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Lack of data on specific delay trends, such as weekend vs. weekday delays. | Include graphs or visualizations analyzing delays by day of the week. |
+| Lack of conclusion on inference from graph. | Modify graphs title to make the inference clear. |
 | The legend that depicted the size in the U.S. map was unnecessary | Remove the size legend from the map. | 
 | The story resonates but needs a better transition in between sections. | Try to add a connection between section to join all the dots of the story. |
 | Seasonal delays resonate strongly, but not all users found actionable tips sufficient. | Expand the actionable tips section with more specific suggestions for planning during high-delay seasons and routes. |
