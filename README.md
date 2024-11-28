@@ -13,8 +13,8 @@ I’m hoping to get better at turning complex numbers into clear, relatable stor
 
 # Portofolio
 
-## Assignment: [Visualizing government debt using Tableau](https://vyom555.github.io/portfolio/dataviz2)
-## Project 2
-## Project 3
-## Project 4
+## [Visualizing government debt using Tableau](https://vyom555.github.io/portfolio/dataviz2)
+## [Makeover of K-12 School Shootings](https://vyom555.github.io/portfolio/MakeoverMonday)
+## [Final Project 1](https://vyom555.github.io/portfolio/finalProject)
+## [Final Project 2](https://vyom555.github.io/portfolio/finalProject2)
 ## Final Project
