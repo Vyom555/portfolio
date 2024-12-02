@@ -12,10 +12,13 @@ The final data story focuses on travelers, based on insights from interviews tha
 
 ## References
 
-Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
+Bevilacqua, L. (2024, May 29). Tired of delayed flights? New flying law offers refunds, keeps families together. The Christian Science Monitor. 
+https://www.csmonitor.com/Business/2024/0524/airlines-summer-travel-flying-faa#:~:text=Last%20year%2C%2020%25%20of%20flights,at%20the%20National%20Consumers%20League.
 
 BTS | OT Delay. (n.d.). 
 https://www.transtats.bts.gov/ot_delay/ot_delaycause1.asp
+
+Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 
 # Final thoughts
 
