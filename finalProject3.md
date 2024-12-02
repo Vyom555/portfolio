@@ -20,6 +20,8 @@ https://www.transtats.bts.gov/ot_delay/ot_delaycause1.asp
 
 Flight delay and cancellation dataset (2019-2023). (2023, December 8). Kaggle. https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023
 
+Today, U. (2023, May 18). Not so fast: Why you should think twice before booking flights with a tight connection. USA TODAY. https://www.usatoday.com/story/travel/airline-news/2023/05/18/time-between-connecting-flights/70222761007/
+
 # Final thoughts
 
 Looking back on the project, I liked how it evolved to focus directly on the needs of travelers. The interviews were key in identifying what the target audience would like to know. What stood out to me was how small changes, like modifying the graph layout and having eye-catching titles, made the story much more attention-grabbing and easy to comprehend. Aligning the project with real user feedback was a major step up, and it showed the value of iterative improvements and listening to the audience.
