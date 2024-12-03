@@ -2,6 +2,8 @@
 
 # The final data story
 
+[Flight Delays In the USA](https://carnegiemellon.shorthandstories.com/flightdelays/index.html)
+
 # Changes made since Part II
 
 Since the completion of Part II, changes were primarily made better to align the story with the target audience of travelers. The context of why flights are delayed was removed to maintain focus on actionable insights for travelers rather than address airline operations. This layout was adjusted to prioritize clarity, placing graphs at the top and accompanying text below, which improved the readability and interpretation of the visual data.
